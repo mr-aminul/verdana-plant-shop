@@ -2,7 +2,8 @@
 
 A fully functional, responsive landing page for a fictional premium indoor plant delivery brand. Built with pure HTML, CSS, and vanilla JavaScript — no frameworks, no dependencies.
 
-![Verdana Preview](preview.png)
+<img width="1920" height="4157" alt="image" src="https://github.com/user-attachments/assets/5988ec52-4d13-49a5-bd15-88798a90c15a" />
+
 
 ## ✨ Features
 
